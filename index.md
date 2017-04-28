@@ -1,3 +1,3 @@
 My Prototype GitHub User Page
 
-![github social coding logo](images/github-image.png)
+![depos beach Oahu,Hawaii](images/depos.JPG)
